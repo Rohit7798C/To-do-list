@@ -10,5 +10,7 @@ Features
 Technologies Used
 
 HTML: For structuring the content and layout of the application.
+
 CSS: For styling the application and making it visually appealing.
+
 JavaScript: For adding interactivity and functionality to the application.
